@@ -1,6 +1,6 @@
 # BIXI Siri Shortcuts
 
-Ce dépôt est lié à cet article que j'ai publié sur Medium : [J'automatise, tu automatises, nous … sur mon, ton, nos iDevice](https://medium.com/@blogosite/et-si-on-parlait-automatisation-60de7997c500)
+Ce dépôt est lié à cet article que j'ai publié sur Medium : [J'automatise, tu automatises, nous … sur mon, ton, nos iDevice](https://medium.com/@jbfournot/et-si-on-parlait-automatisation-60de7997c500)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*jh5QS5VAS6HcHjXkHw64Qg.png)
 
